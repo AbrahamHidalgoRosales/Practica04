@@ -7,17 +7,17 @@ Recuerden que nunca se termina de aprender a programar es un proceso de aprendiz
 den los acercará más a convertirse en grandes programadores.
 
 ## Equipo #(Numero) 
-(Nombre1) (ApellidoPaterno1) (ApellidoMaterno1)
+Abraham Hidalgo Rosales
 
-(No. Cuenta 1)
+422036962
 
-(Correo1)
+abrahamhidalgorosales52@ciencias.unam.mx
 
-(Nombre2) (ApellidoPaterno2) (ApellidoMaterno2)
+Hanabi Hernández Arce
 
-(No. Cuenta 2)
+322004416
 
-(Correo2)
+hanabi@ciencias.unam.mx
 
 ## Instrucciones
 (Escribe las instrucciones de ejecución aquí)
